@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cseis06
 - 👀 I’m interested in videogames and frontend development!
-- 🌱 I’m currently learning Roblox Studio and Unreal Engine 5
+- 🌱 I’m currently learning UEFN and Verse
 - 📫 How to reach me: danimaibp1@gmail.com
 
 
