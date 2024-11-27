@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cseis06
-- 👀 I’m interested in videogames and frontend development!
-- 🌱 I’m currently learning UEFN and Verse
+- 👀 I’m interested in frontend and videogames development!
+- 🌱 I’m currently learning UEFN + Verse and React
 - 📫 How to reach me: danimaibp1@gmail.com
 
 
