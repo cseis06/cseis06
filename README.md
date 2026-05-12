@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @cseis06
-- 👀 I’m interested in frontend and videogames development!
-- 🌱 I’m currently learning UEFN + Verse and React
-- 📫 How to reach me: danimaibp1@gmail.com
+- Hi! I’m Dani Brunetto.
+- I’m a  web developer, more focused in frontend; also intrested in videogames development!
+- Currently diving into cybersecurity and polishing my UX/UI knowledge.
+- You can reach me via mail to danimaibp1@gmail.com or visit my web portfolio.
 
-
-<!---
-cseis06/cseis06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Portfolio*: https://danielabrunetto.netlify.app/
